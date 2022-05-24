@@ -1,6 +1,7 @@
 package com.smartMvc;
 
 import com.smartMvc.Core.Anno.ScanController;
+import com.smartMvc.Core.RunApplication;
 
 @ScanController(path = "com.smartMvc.Controller.ViewController")
 public class Main {

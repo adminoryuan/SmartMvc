@@ -1,4 +1,4 @@
-package com.smartMvc;
+package com.smartMvc.Core;
 
 import org.apache.catalina.Context;
 import org.apache.catalina.LifecycleException;
